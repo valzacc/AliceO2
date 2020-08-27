@@ -1,0 +1,7 @@
+<map id="o2::vertexing::VertexSeed" name="o2::vertexing::VertexSeed">
+<area shape="rect" id="node2" href="$dd/ded/classo2_1_1dataformats_1_1Vertex.html" title="{Vertex\n||+ Vertex()\l+ ~Vertex()\l+ Vertex()\l+ print()\l+ getNContributors()\l+ setNContributors()\l+ addContributor()\l+ getBits()\l+ isBitSet()\l+ setBits()\l+ setBit()\l+ resetBit()\l+ setChi2()\l+ getChi2()\l+ getTimeStamp()\l+ getTimeStamp()\l+ setTimeStamp()\l}" alt="" coords="327,895,485,1207"/>
+<area shape="rect" id="node3" href="$dc/d08/classo2_1_1dataformats_1_1VertexBase.html" title="{o2::dataformats::VertexBase\n||+ VertexBase()\l+ ~VertexBase()\l+ VertexBase()\l+ print()\l+ asString()\l+ getX()\l+ getY()\l+ getZ()\l+ getSigmaX2()\l+ getSigmaY2()\l+ getSigmaZ2()\l+ getSigmaXY()\l+ getSigmaXZ()\l+ getSigmaYZ()\l+ getCov()\l+ getXYZ()\l+ getXYZ()\l+ setX()\l+ setY()\l+ setZ()\l+ setXYZ()\l+ setPos()\l+ setSigmaX2()\l+ setSigmaY2()\l+ setSigmaZ2()\l+ setSigmaXY()\l+ setSigmaXZ()\l+ setSigmaYZ()\l+ setCov()\l+ setCov()\l# ClassDefNV()\l}" alt="" coords="195,315,403,832"/>
+<area shape="rect" id="node5" href="$d5/daf/classROOT_1_1Math_1_1PositionVector3D.html" title="{ROOT::Math::PositionVector3\lD\&lt; float \&gt;\n||}" alt="" coords="196,160,403,252"/>
+<area shape="rect" id="node6" href="$d5/daf/classROOT_1_1Math_1_1PositionVector3D.html" title="{ROOT::Math::PositionVector3\lD\&lt; CoordSystem, Tag \&gt;\n||}" alt="" coords="196,5,403,97"/>
+<area shape="rect" id="node10" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="642,1012,693,1089"/>
+</map>

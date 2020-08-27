@@ -1,0 +1,36 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/src/CTFCoder.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/src/CTFCoder.cxx">
+<area shape="rect" id="node2" href="$d9/de3/TPC_2reconstruction_2include_2TPCReconstruction_2CTFCoder_8h.html" title="TPCReconstruction/CTFCoder.h" alt="" coords="3597,124,3817,151"/>
+<area shape="rect" id="node6" href="$d8/d9c/TPC_2include_2DataFormatsTPC_2CTF_8h.html" title="DataFormatsTPC/CTF.h" alt="" coords="3829,199,3998,225"/>
+<area shape="rect" id="node10" href="$d4/de7/rans_8h.html" title="header for public api " alt="" coords="2440,370,2539,397"/>
+<area shape="rect" id="node44" href="$d2/d7d/CompressedClusters_8h.html" title="Container to store compressed TPC cluster data. " alt="" coords="4111,273,4327,315"/>
+<area shape="rect" id="node49" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="3373,452,3601,493"/>
+<area shape="rect" id="node61" href="$d4/dbb/CTFCoderBase_8h.html" title="Declarations for CTFCoderBase class (support of external dictionaries) " alt="" coords="3328,281,3555,307"/>
+<area shape="rect" id="node7" href="$da/d91/EncodedBlocks_8h.html" title="DetectorsCommonDataFormats\l/EncodedBlocks.h" alt="" coords="3075,273,3303,315"/>
+<area shape="rect" id="node41" href="$d4/d8f/StringUtils_8h.html" title="CommonUtils/StringUtils.h" alt="" coords="3625,459,3820,486"/>
+<area shape="rect" id="node43" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="1825,780,1978,807"/>
+<area shape="rect" id="node11" href="$dd/d65/FrequencyTable_8h.html" title="Histogram to depict frequencies of source symbols for rANS compression. " alt="" coords="1057,780,1191,807"/>
+<area shape="rect" id="node18" href="$d4/da1/helper_8h.html" title="various helper functions " alt="" coords="2645,855,2773,881"/>
+<area shape="rect" id="node21" href="$dd/d74/Utilities_2rANS_2include_2rANS_2Encoder_8h.html" title="Encoder.h" alt="" coords="2316,541,2401,568"/>
+<area shape="rect" id="node32" href="$dc/d62/Utilities_2rANS_2include_2rANS_2Decoder_8h.html" title="Decoder.h" alt="" coords="1249,541,1335,568"/>
+<area shape="rect" id="node35" href="$d5/ddf/DedupEncoder_8h.html" title="DedupEncoder.h" alt="" coords="2730,459,2857,486"/>
+<area shape="rect" id="node37" href="$da/da6/DedupDecoder_8h.html" title="DedupDecoder.h" alt="" coords="1477,459,1606,486"/>
+<area shape="rect" id="node38" href="$d9/de1/LiteralEncoder_8h.html" title="LiteralEncoder.h" alt="" coords="2426,459,2553,486"/>
+<area shape="rect" id="node39" href="$df/dfe/LiteralDecoder_8h.html" title="LiteralDecoder.h" alt="" coords="1324,459,1452,486"/>
+<area shape="rect" id="node22" href="$de/d8e/Utilities_2rANS_2include_2rANS_2internal_2Encoder_8h.html" title="internal/Encoder.h" alt="" coords="2295,623,2433,650"/>
+<area shape="rect" id="node26" href="$d2/d53/EncoderSymbol_8h.html" title="Structure containing all relevant information to encode a symbol. " alt="" coords="2625,705,2759,732"/>
+<area shape="rect" id="node30" href="$d8/dd9/SymbolTable_8h.html" title="Container for information needed to encode/decode a symbol of the alphabet. " alt="" coords="1481,623,1652,650"/>
+<area shape="rect" id="node25" href="$d7/d99/DecoderSymbol_8h.html" title="Structure containing all relevant information for decoding a rANS encoded symbol. ..." alt="" coords="2179,705,2317,732"/>
+<area shape="rect" id="node31" href="$d0/d51/SymbolStatistics_8h.html" title="Structure to depict the distribution of symbols in the source message. " alt="" coords="1062,705,1205,732"/>
+<area shape="rect" id="node33" href="$d6/dfb/Utilities_2rANS_2include_2rANS_2internal_2Decoder_8h.html" title="internal/Decoder.h" alt="" coords="1879,623,2020,650"/>
+<area shape="rect" id="node34" href="$dc/d3b/ReverseSymbolLookupTable_8h.html" title="Maps CDF back to source symbol &#45; needed for the decoder. " alt="" coords="1031,616,1255,657"/>
+<area shape="rect" id="node45" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="4357,705,4499,732"/>
+<area shape="rect" id="node48" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="4239,459,4406,486"/>
+<area shape="rect" id="node46" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="4315,780,4512,807"/>
+<area shape="rect" id="node47" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="4125,780,4291,807"/>
+<area shape="rect" id="node53" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="4108,541,4239,568"/>
+<area shape="rect" id="node56" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="3535,541,3705,568"/>
+<area shape="rect" id="node54" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="4517,623,4670,650"/>
+<area shape="rect" id="node55" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="4132,623,4391,650"/>
+<area shape="rect" id="node59" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="3503,623,3697,650"/>
+<area shape="rect" id="node63" href="$d7/d61/NameConf_8h.html" title="Definition of the Names Generator class. " alt="" coords="3373,363,3601,404"/>
+</map>
